@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Glaubert01/Node_JS_iniciando/issues"
   },
-  "homepage": "https://github.com/Glaubert01/Node_JS_iniciando#readme"
+  "homepage": "https://github.com/Glaubert01/Node_JS_iniciando#readme",
+  "devDependencies": {
+    "eslint": "^9.34.0"
+  }
 }
