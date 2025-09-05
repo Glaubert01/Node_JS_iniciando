@@ -5,7 +5,8 @@
   "main": "script.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "api-local": "json-server --watch backend/videos.json"
+    "api-local": "json-server --watch backend/videos.json",
+    "lint": "eslint ."
   },
   "repository": {
     "type": "git",
