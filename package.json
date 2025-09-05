@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/Glaubert01/Node_JS_iniciando#readme",
   "devDependencies": {
-    "eslint": "^9.34.0"
+    "@eslint/js": "^9.34.0",
+    "eslint": "^9.34.0",
+    "globals": "^16.3.0"
   }
 }
