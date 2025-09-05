@@ -2,7 +2,7 @@
 
 # VidFlow
 
-O VidFlow é uma plataforma de compartilhamento de vídeos.
+O VidFlow é uma plataforma de compartilhamento de vídeos entre os usuários.
 
 ![Captura de tela do Vidflow.](./vidflow.png)
 
